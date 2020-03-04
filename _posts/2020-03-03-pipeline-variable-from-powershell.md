@@ -5,7 +5,7 @@ date:   2020-03-03 18:00:00 +0000
 categories: ci/cd azure devops microsoft
 ---
 
-[Microsoft documentation](https://docs.microsoft.com) is pretty awesome these days. Many parts are open-source so edits can be by submitted thorough a pull request. Unfortunately this is not available for Microsoft Learn preparation for AZ400 exam (Azure DevOps). Hence this blog post. 
+[Microsoft documentation](https://docs.microsoft.com) is pretty awesome these days. Many parts are open-source so edits can be by submitted thorough a pull request. Unfortunately this is not available for [Microsoft Learn preparation for AZ400 exam (Azure DevOps)](https://docs.microsoft.com/en-us/learn/certifications/exams/az-400?wt.mc_id=learningredirect_certs-web-wwl). Hence this blog post. 
 
 
 When demonstrating how a variable can be used to take conditional actions in a pipeline, Microsoft doc recommends to use a Variable Group in Library to store whether database schema has changed or not.
