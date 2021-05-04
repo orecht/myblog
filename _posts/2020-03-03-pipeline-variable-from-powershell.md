@@ -54,3 +54,5 @@ The conditon in stage `DBAVerificationApply` could remain unchanged:
 condition: and(succeeded('DBAVerificationScript'), eq(variables['schemaChanged'], True))
 ~~~
 
+## Edit: Response from an author of Microsoft AZ-400 exam training material
+> There is use case for both variable groups and variables with in the pipeline. It's best to choose a variable group if you want to abstract the value and make it usable across multiple pipelines and also if this value needs to be secured then the variable groups support that while a status value in pipeline variable is plain text.
