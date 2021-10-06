@@ -1,1 +1,1 @@
-Code for my blog at https://orecht.github.io/myblog/
+Code for my blog at https://blog.orenrecht.co.uk
