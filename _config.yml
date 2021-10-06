@@ -32,7 +32,7 @@ twitter_username: buildmanagerguy
 github_username:  orecht
 
 # Build settings
-theme: jekyll-theme-cayman
+theme: minima
 plugins:
   - jekyll-feed
 
